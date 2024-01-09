@@ -80,8 +80,14 @@ h1, h2, h3, h4, p {
     background-image: url("images/awesome.jpg");
 }
 
+#gift-img-better:hover {
+    background-image: url("images/better.png");
+    background-size: 400px 400px;
+}
+
 #gift-img-cheers:hover {
     background-image: url("images/giphy.gif");
+    
 }
 #footer {
     font-style: italic;
